@@ -17,4 +17,4 @@ COPY . .
 
 EXPOSE 8080
 CMD [ "echo", "Buid finished!Hello world!" ]
-CMD [ "node", "server.js" ]
+# CMD [ "node", "server.js" ]
